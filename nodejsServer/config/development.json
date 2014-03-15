@@ -1,0 +1,6 @@
+{
+    "websocket" : {
+		"port" : 8000
+	},
+	"logging" : true
+}

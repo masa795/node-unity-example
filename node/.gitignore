@@ -1,0 +1,13 @@
+/Library
+/obj
+/Temp
+/*.csproj
+/*.pidb
+/*.unityproj
+/*.sln
+/*.userprefs
+/*-csharp.sln
+/*-csharp.suo
+/*.lnk
+.DS_Store
+/.svn
